@@ -30,6 +30,7 @@ Getting started
 | ---            | ---                              |
 | `ZZ`           | Save and quit                    |
 | `ZQ`           | Quit without checking changes    |
+
 {: .-shortcuts}
 
 ### Navigating
@@ -46,6 +47,7 @@ Getting started
 | ---          | ---                       |
 | `b` _/_ `w`  | Previous/next word        |
 | `e` _/_ `ge` | Previous/next end of word |
+no pip
 {: .-shortcuts}
 
 #### Line
